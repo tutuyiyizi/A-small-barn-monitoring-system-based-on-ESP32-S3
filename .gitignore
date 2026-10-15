@@ -1,0 +1,13 @@
+.tools/
+.venv/
+build/
+firmware/granary/config_local.h
+__pycache__/
+local_server/config.json
+local_server/*.sqlite*
+broker/passwords
+/.ppt_work/
+/.work/
+/output/
+/tmp/
+/_audit_visual/
